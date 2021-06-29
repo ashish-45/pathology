@@ -1,0 +1,11 @@
+.extra-div img:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+  }
+
+  .extra-div img{
+      width: 220px;
+      display: flex;
+      justify-content: center;
+      margin: auto;
+  }

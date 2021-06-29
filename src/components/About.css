@@ -1,0 +1,11 @@
+.images{
+    border: 1px solid blue;
+}
+
+.fa-heart-rate{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}

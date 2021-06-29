@@ -1,0 +1,45 @@
+.backimg{
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/08/05/29/surgery-1807541_960_720.jpg");
+    background-size: cover;
+    padding: 20px;
+    opacity: 0.8;
+}
+
+input[type="text"]{
+    height: 50px;
+    font-weight: bold;
+}
+
+input[type="date"]{
+    height: 50px;
+}
+
+input[type="email"]{
+    height: 50px;
+}
+
+select[name="select"]{
+    height: 50px;
+}
+
+
+.label{
+    font-weight: bold;
+}
+
+.btn-primary{
+    padding: 10px;
+    width: 200px;
+    font-weight: bold;
+    
+}
+
+.btn-success{
+    padding: 10px;
+    width: 200px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+   
+  }
